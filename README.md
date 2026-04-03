@@ -387,7 +387,6 @@ India’s digital banking ecosystem is rapidly evolving. The analysis confirms:
 
 ---
 
-⭐ *If you found this useful, don't forget to star the repository!*
-📢 *Let’s empower agriculture through data analytics!* 🌾📊🚀
+⭐ *If you found this useful, don't forget to star the repository!* 
 
 ```
